@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android_WorkSpace\\openIMDemo_src_2.0.2.1\\build\\intermediates\\res\\merged\\debug\\menu\\menu_invite_tribe_member.xml",
+        "source": "E:\\Android_WorkSpace\\openIMDemo_src_2.0.2.1\\res\\menu\\menu_invite_tribe_member.xml"
+    },
+    {
+        "merged": "E:\\Android_WorkSpace\\openIMDemo_src_2.0.2.1\\build\\intermediates\\res\\merged\\debug\\menu\\menu_system_message.xml",
+        "source": "E:\\Android_WorkSpace\\openIMDemo_src_2.0.2.1\\res\\menu\\menu_system_message.xml"
+    },
+    {
+        "merged": "E:\\Android_WorkSpace\\openIMDemo_src_2.0.2.1\\build\\intermediates\\res\\merged\\debug\\menu\\menu_at_msg_list.xml",
+        "source": "E:\\Android_WorkSpace\\openIMDemo_src_2.0.2.1\\res\\menu\\menu_at_msg_list.xml"
+    }
+]
